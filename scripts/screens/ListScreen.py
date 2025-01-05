@@ -723,7 +723,7 @@ class ListScreen(Screens):
             self.ar_bg.show()
             self.ur_bg.hide()
             self.sc_bg.hide()
-            self.update_heading_text("Abyssal Reefe")
+            self.update_heading_text("Abyssal Reef")
 
     def get_cat_list(self):
         """
