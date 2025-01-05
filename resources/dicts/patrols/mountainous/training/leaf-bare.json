@@ -528,7 +528,7 @@
             ],
             "fail_outcomes": [
                 {
-                    "text": "r_c listens, shivering, as p_l describes the birth of the ABYSS Forest, the ancient, barely won battle between the good cats of the stars and the traitor amidst. {PRONOUN/r_c/subject/CAP} can't stop thinking about it in {PRONOUN/r_c/poss} nest that night, {PRONOUN/r_c/poss} sleep broken and uneasy.",
+                    "text": "r_c listens, shivering, as p_l describes the birth of the Abyssal Reef, the ancient, barely won battle between the good cats of the stars and the traitor amidst. {PRONOUN/r_c/subject/CAP} can't stop thinking about it in {PRONOUN/r_c/poss} nest that night, {PRONOUN/r_c/poss} sleep broken and uneasy.",
                     "exp": 0,
                     "weight": 20,
                   "injury": [
@@ -540,8 +540,8 @@
                                 }
                             ],
                         "history_text": {
-                        "reg_death": "r_c died from lack of sleep, {PRONOUN/r_c/poss} vision haunted by ABYSS shadows.",
-                        "lead_death": "from lack of sleep, {PRONOUN/r_c/poss} vision haunted by ABYSS shadows"
+                        "reg_death": "r_c died from lack of sleep, {PRONOUN/r_c/poss} vision haunted by dark shadows.",
+                        "lead_death": "from lack of sleep, {PRONOUN/r_c/poss} vision haunted by dark shadows"
                        }
                 },
                 {
