@@ -152,6 +152,9 @@ def json_load():
                 accessories=cat["accessories"] if "accessories" in cat else [],
                 inventory = cat["inventory"] if "inventory" in cat else []
             )
+            
+            new_cat.scent = cat["scent"] if "scent" in cat else choice(["milk", "saltwater", "sunscreen", "seaweed", "roses", "dandelions", "the night sky", "damp sand", "fish", "driftwood", "crabs", "lobster", "crawfish", "oysters", "coconut", "bananas", "seagulls", "the sea breeze", "shells", "clams", "algae", "herbs", "kelp", "barbecue", "charcoal", "tanning lotion", "stagnant water", "pool toys", "chlorine", "canines", "lime", "lemon"])
+            new_cat.quirk = cat["quirk"] if "quirk" in cat else choice(["flat muzzle", "taller than average", "shorter than average", "large ears", "long tail", "big paws", "little paws", "long whiskers", "stubby whiskers", "long muzzle", "curled ears", "skinny", "chubby", "rounded face", "crooked tail", "Long hind legs", "muscular", "polydactyl paws", "protruding vampy fangs", "fangless", "curly whiskers", "patchy fur", "sleek fur", "long claws", "mane", "fluffy", "big nose", "little nose", "squishy paws", "crooked teeth", "cross-eyed", "syndactyly", "tiny fella", "unusually large", "stocky"])
 
             # Runs a bunch of apperence-related convertion of old stuff.
             new_cat.pelt.check_and_convert(convert)
@@ -406,6 +409,7 @@ def csv_load(all_cats):
                     gender=attr[2],
                     status=attr[3],
                     pelt=the_pelt,
+                    scent=attr[2],
                     parent1=attr[6],
                     parent2=attr[7],
                 )
