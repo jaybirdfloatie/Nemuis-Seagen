@@ -426,7 +426,7 @@
         "chance_of_success": 40,
         "success_outcomes": [
             {
-                "text": "You cautiously pick your way into the forest in the direction the noise came from. After some wandering around in the ABYSS, you find a pristine deer skull, sitting perfectly on top of the stump of a tree that you could've sworn was standing just a few days ago. A bit freaked out, you head back to camp. The next morning, the skull is sitting right next to your nest, and your denmates are complimenting you on the cool find.",
+                "text": "You cautiously pick your way into the forest in the direction the noise came from. After some wandering around in the dark, you find a pristine deer skull, sitting perfectly on top of the stump of a tree that you could've sworn was standing just a few days ago. A bit freaked out, you head back to camp. The next morning, the skull is sitting right next to your nest, and your denmates are complimenting you on the cool find.",
                 "exp": 20,
                 "weight": 10,
                 "accessory": [
