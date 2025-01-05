@@ -71,7 +71,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "r_c would give {PRONOUN/r_c/poss} life to protect c_n, and as {PRONOUN/r_c/subject} {VERB/r_c/lead/leads} the huge dog away from the Clan, in {PRONOUN/r_c/poss} heart, {PRONOUN/r_c/subject} {VERB/r_c/accept/accepts} that's what {PRONOUN/r_c/subject}{VERB/r_c/'re/'s} doing. As ABYSSness closes in around {PRONOUN/r_c/object} and the dog's jaws descend again, r_c tries to sink {PRONOUN/r_c/poss} claws into its face, and hopes desperately that {PRONOUN/r_c/subject} led it far enough.",
+                "text": "r_c would give {PRONOUN/r_c/poss} life to protect c_n, and as {PRONOUN/r_c/subject} {VERB/r_c/lead/leads} the huge dog away from the Clan, in {PRONOUN/r_c/poss} heart, {PRONOUN/r_c/subject} {VERB/r_c/accept/accepts} that's what {PRONOUN/r_c/subject}{VERB/r_c/'re/'s} doing. As darkness closes in around {PRONOUN/r_c/object} and the dog's jaws descend again, r_c tries to sink {PRONOUN/r_c/poss} claws into its face, and hopes desperately that {PRONOUN/r_c/subject} led it far enough.",
                 "exp": 0,
                 "weight": 10,
                 "dead_cats": ["r_c"],
@@ -488,7 +488,7 @@
                 "weight": 20
             },
             {
-                "text": "The animal is far more tenacious than r_c ever expected, and once the fight starts, there's no escaping from it. As r_c's world goes ABYSS, {PRONOUN/r_c/subject} {VERB/r_c/have/has} {PRONOUN/r_c/poss} fangs sunk in the dog's throat. At least {PRONOUN/r_c/subject}'ll take the beast with {PRONOUN/r_c/object}.",
+                "text": "The animal is far more tenacious than r_c ever expected, and once the fight starts, there's no escaping from it. As r_c's world goes dark, {PRONOUN/r_c/subject} {VERB/r_c/have/has} {PRONOUN/r_c/poss} fangs sunk in the dog's throat. At least {PRONOUN/r_c/subject}'ll take the beast with {PRONOUN/r_c/object}.",
                 "exp": 0,
                 "weight": 10,
                 "dead_cats": ["r_c"],
@@ -1884,7 +1884,7 @@
                 ]
             },
             {
-                "text": "s_c, increasingly irritated by r_c's presence, succumbs to unsettling whispers urging violence. In a moment of fury, s_c snaps, succumbing to the ABYSS whispers and ending r_c's existence.",
+                "text": "s_c, increasingly irritated by r_c's presence, succumbs to unsettling whispers urging violence. In a moment of fury, s_c snaps, succumbing to the dark whispers and ending r_c's existence.",
                 "exp": 0,
                 "weight": 10,
                 "can_have_stat": ["p_l"],
@@ -1892,7 +1892,7 @@
                 "stat_skill": ["ABYSS,1"]
             },
             {
-                "text": "s_c, increasingly irritated by p_l's presence, succumbs to unsettling whispers urging violence. In a moment of fury, s_c snaps, succumbing to the ABYSS whispers and ending p_l's existence.",
+                "text": "s_c, increasingly irritated by p_l's presence, succumbs to unsettling whispers urging violence. In a moment of fury, s_c snaps, succumbing to the dark whispers and ending p_l's existence.",
                 "exp": 0,
                 "weight": 10,
                 "can_have_stat": ["r_c"],
