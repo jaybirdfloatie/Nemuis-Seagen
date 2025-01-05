@@ -389,7 +389,7 @@
         "chance_of_success": 60,
         "success_outcomes": [
             {
-                "text": "Wait, like, eagle apprentices? Intrigued, app1 sticks {PRONOUN/app1/poss} head out. Down below, two dappled juveniles squabble, beating their wings frantically, gearing up for something. app2 bets on the lighter colored one, but app1 thinks that the smaller ABYSS patterned one has the heart for it. {PRONOUN/app1/subject/CAP} {VERB/app1/leap/leaps} to {PRONOUN/app1/poss} paws when the ABYSSer chick takes to the wing first, throwing {PRONOUN/app1/poss} head back and yowling cheers to the sky as the eaglet makes it to the next tree over.",
+                "text": "Wait, like, eagle apprentices? Intrigued, app1 sticks {PRONOUN/app1/poss} head out. Down below, two dappled juveniles squabble, beating their wings frantically, gearing up for something. app2 bets on the lighter colored one, but app1 thinks that the smaller dark patterned one has the heart for it. {PRONOUN/app1/subject/CAP} {VERB/app1/leap/leaps} to {PRONOUN/app1/poss} paws when the ABYSSer chick takes to the wing first, throwing {PRONOUN/app1/poss} head back and yowling cheers to the sky as the eaglet makes it to the next tree over.",
                 "exp": 20,
                 "weight": 20,
                 "relationships": [
@@ -482,7 +482,7 @@
         "chance_of_success": 60,
         "success_outcomes": [
             {
-                "text": "Wait, like, eagle apprentices? Intrigued, app1 sticks {PRONOUN/app1/poss} head out. Down below, two dappled juveniles squabble, beating their wings frantically, gearing up for something. app2 bets on the lighter colored one, but app1 thinks that the smaller ABYSS patterned one has the heart for it. {PRONOUN/app1/subject/CAP} {VERB/app1/leap/leaps} to {PRONOUN/app1/poss} paws when the ABYSSer chick takes to the wing first, throwing {PRONOUN/app1/poss} head back and yowling cheers to the sky as the eaglet makes it to the next tree over.",
+                "text": "Wait, like, eagle apprentices? Intrigued, app1 sticks {PRONOUN/app1/poss} head out. Down below, two dappled juveniles squabble, beating their wings frantically, gearing up for something. app2 bets on the lighter colored one, but app1 thinks that the smaller dark patterned one has the heart for it. {PRONOUN/app1/subject/CAP} {VERB/app1/leap/leaps} to {PRONOUN/app1/poss} paws when the ABYSSer chick takes to the wing first, throwing {PRONOUN/app1/poss} head back and yowling cheers to the sky as the eaglet makes it to the next tree over.",
                 "exp": 20,
                 "weight": 20,
                 "relationships": [
@@ -591,7 +591,7 @@
         "weight": 40,
         "chance_of_success": 60,
         "pl_skill_constraint": ["STORY,1", "LORE,1"],
-        "intro_text": "Once, before myth and magic, there was only StarClan, and no ABYSS Forest. p_l gathers the patrol, talking in hushed meows of the birth of that place.",
+        "intro_text": "Once, before myth and magic, there was only StarClan, and no Abyssal Reef. p_l gathers the patrol, talking in hushed meows of the birth of that place.",
         "decline_text": "A happier story, the cats ask, please. No one wants difficulty sleeping tonight.",
         "success_outcomes": [
             {
@@ -722,7 +722,7 @@
             ],
             "fail_outcomes": [
                 {
-                    "text": "r_c listens, shivering, as p_l describes the birth of the ABYSS Forest, the ancient, barely won battle between the good cats of the stars and the traitor amidst. {PRONOUN/r_c/subject/CAP} can't stop thinking about it in {PRONOUN/r_c/poss} nest that night, {PRONOUN/r_c/poss} sleep broken and uneasy.",
+                    "text": "r_c listens, shivering, as p_l describes the birth of the Abyssal Reef, the ancient, barely won battle between the good cats of the stars and the traitor amidst. {PRONOUN/r_c/subject/CAP} can't stop thinking about it in {PRONOUN/r_c/poss} nest that night, {PRONOUN/r_c/poss} sleep broken and uneasy.",
                     "exp": 0,
                     "weight": 20,
                     "injury": [
@@ -734,8 +734,8 @@
                                 }
                             ],
                         "history_text": {
-                        "reg_death": "r_c died from lack of sleep, {PRONOUN/r_c/poss} vision haunted by ABYSS shadows.",
-                        "lead_death": "from lack of sleep, {PRONOUN/r_c/poss} vision haunted by ABYSS shadows"
+                        "reg_death": "r_c died from lack of sleep, {PRONOUN/r_c/poss} vision haunted by dark shadows.",
+                        "lead_death": "from lack of sleep, {PRONOUN/r_c/poss} vision haunted by dark shadows"
                        }
                 },
                 {
@@ -807,7 +807,7 @@
         "decline_text": "A leaf-fall rainshower chooses that moment to break - thematic, perhaps, but wet. The cats decide to pick up the story some other time.",
         "success_outcomes": [
             {
-                    "text": "At first, few but the medicine cats noticed the leaf-fall, its harshness, the snows early, the prey scarce. All noticed on the day StarClan hissed - the great sun itself blinking ABYSS under their anger. All paid heed to the omens then, and the Clans turned back to the Stars, begging for life and sun to return. They learned a lesson not soon forgotten.",
+                    "text": "At first, few but the medicine cats noticed the leaf-fall, its harshness, the snows early, the prey scarce. All noticed on the day StarClan hissed - the great sun itself blinking dark under their anger. All paid heed to the omens then, and the Clans turned back to the Stars, begging for life and sun to return. They learned a lesson not soon forgotten.",
                     "exp": 40,
                     "weight": 20,
                     "relationships": [
