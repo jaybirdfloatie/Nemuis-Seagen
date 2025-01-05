@@ -197,6 +197,9 @@ class Cat:
 
         self.history = None
 
+                # seagen extra attributes :)
+        self.scent = choice(["milk", "saltwater", "sunscreen", "seaweed", "roses", "dandelions", "the night sky", "damp sand", "fish", "driftwood", "crabs", "lobster", "crawfish", "oysters", "coconut", "bananas", "seagulls", "the sea breeze", "shells", "clams", "algae", "herbs", "kelp", "barbecue", "charcoal", "tanning lotion", "stagnant water", "pool toys", "chlorine", "canines", "lime", "lemon"])
+        self.quirk = choice(["flat muzzle", "taller than average", "shorter than average", "large ears", "long tail", "big paws", "little paws", "long whiskers", "stubby whiskers", "long muzzle", "curled ears", "skinny", "chubby", "rounded face", "crooked tail", "Long hind legs", "muscular", "polydactyl paws", "protruding vampy fangs", "fangless", "curly whiskers", "patchy fur", "sleek fur", "long claws", "mane", "fluffy", "big nose", "little nose", "squishy paws", "crooked teeth", "cross-eyed", "syndactyly", "tiny fella", "unusually large", "stocky"])
         if (
             faded
         ):  # This must be at the top. It's a smaller list of things to init, which is only for faded cats
@@ -273,6 +276,7 @@ class Cat:
         self.faith = randint(-3, 3)
         self.connected_dialogue = {}
         self.lock_faith = "flexible"
+        
         
         self.prevent_fading = False  # Prevents a cat from fading.
         self.faded_offspring = []  # Stores of a list of faded offspring, for family page purposes.
@@ -3876,6 +3880,8 @@ class Cat:
                 "opacity": self.pelt.opacity,
                 "prevent_fading": self.prevent_fading,
                 "favourite": self.favourite if self.favourite else 0,
+                "scent": self.scent,
+                "quirk": self.quirk,
                 "w_done": self.w_done if self.w_done else False,
                 "talked_to": self.talked_to if self.talked_to else False,
                 "insulted": self.insulted if self.insulted else False,
