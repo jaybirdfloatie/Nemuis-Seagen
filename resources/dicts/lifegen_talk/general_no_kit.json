@@ -1334,7 +1334,7 @@
         ],
         [
             "What'd you do to yourself this time, mouse-brain? Don't worry - I've done worse plenty of times, and I'm still kicking. Hehe.",
-            "[t_c's voice is strained and tinged with abyssness. It seems {PRONOUN/t_c/subject}{VERB/t_c/'re/'s} more worried than {PRONOUN/t_c/subject}{VERB/t_c/'re/'s} letting on.]"
+            "[t_c's voice is strained and tinged with darkness. It seems {PRONOUN/t_c/subject}{VERB/t_c/'re/'s} more worried than {PRONOUN/t_c/subject}{VERB/t_c/'re/'s} letting on.]"
         ]
     ],
     "assertive_ill6": [
@@ -5099,7 +5099,7 @@
         ],
         [
             "What'd you do to yourself this time, mouse-brain? Don't worry - I've done worse plenty of times, and I'm still kicking. Hehe.",
-            "[t_c's voice is strained and tinged with abyssness. It seems {PRONOUN/t_c/subject}{VERB/t_c/'re/'s} more worried than {PRONOUN/t_c/subject}{VERB/t_c/'re/'s} letting on.]"
+            "[t_c's voice is strained and tinged with darkness. It seems {PRONOUN/t_c/subject}{VERB/t_c/'re/'s} more worried than {PRONOUN/t_c/subject}{VERB/t_c/'re/'s} letting on.]"
         ]
     ],
     "assertive_youill6": [
@@ -10317,7 +10317,7 @@
         ],
         [
             "y_c, when you're around, the whole world seems a little less ...",
-            "abyss."
+            "dark."
         ]
     ],
     "brooding_frommate2": [
@@ -11985,7 +11985,7 @@
             "[As you try to sleep at the edge of camp one night, you hear t_c's voice above the crickets. You open your eyes to see that {PRONOUN/t_c/subject}{VERB/t_c/'ve/'s} got a clump of moss at {PRONOUN/t_c/poss} paws.]",
             "[{PRONOUN/t_c/subject/CAP} {VERB/t_c/bat/bats} it towards you.]",
             "For your nest! I'm sure it's not as comfy out here as your old one.",
-            "[Before you're able to thank {PRONOUN/t_c/object}, t_c slips back into the abyssness of the camp.]"
+            "[Before you're able to thank {PRONOUN/t_c/object}, t_c slips back into the darkness of the camp.]"
         ]
     ],
     "general_sh_J3": [
@@ -12405,7 +12405,7 @@
         ],
         [
             "I pray you find guilt in your actions.",
-            "I hope one day StarClan calls your name and banishes you to an eternal abyssness.",
+            "I hope one day StarClan calls your name and banishes you to an eternal darkness.",
             "It's what you deserve."
         ]
     ],
@@ -12545,7 +12545,7 @@
         ],
         [
             "How did our youth become so tainted?",
-            "Why did you do it? You had the stars in your paws but instead turned your back in favour of abyssness.",
+            "Why did you do it? You had the stars in your paws but instead turned your back in favour of darkness.",
             "What evil spoke to you? What did they say to get you to listen? What power could have possibly had more say than m_n?",
             "Oh, StarClan- m_n... How {VERB/m_n/do/does} {PRONOUN/m_n/subject} feel? You failed {PRONOUN/m_n/object}, y_c."
         ]
@@ -13787,7 +13787,7 @@
             "Any"
         ],
         [
-            "[t_c is casually flicking pebbles into a abyss, seemingly bottomless pond.]",
+            "[t_c is casually flicking pebbles into a dark, seemingly bottomless pond.]",
             "Ever think about what's at the bottom of this thing?"
         ]
     ],
@@ -13809,7 +13809,7 @@
             "Any"
         ],
         [
-            "[While trudging through the murky, abyss terrain, t_c nudges you with a abyss grin.]",
+            "[While trudging through the murky, dark terrain, t_c nudges you with a dark grin.]",
             "Think StarClan's watching us now? Scared, do you reckon?",
             "If they are, let's give them a good show. They ought to know that the Abyssal Reef still thrives."
         ]
@@ -13864,7 +13864,7 @@
         [
             "Hi!",
             "Nice to see you, y_c!",
-            "[{PRONOUN/t_c/subject/CAP} {VERB/t_c/wave/waves} {PRONOUN/t_c/poss} tail, then {VERB/t_c/head/heads} back into the abyssness.]",
+            "[{PRONOUN/t_c/subject/CAP} {VERB/t_c/wave/waves} {PRONOUN/t_c/poss} tail, then {VERB/t_c/head/heads} back into the darkness.]",
             "[You stop to wonder why t_c is in the Abyssal Reef, or if you're better off not knowing.]"
         ]
     ],
@@ -14065,7 +14065,7 @@
             "Last one to the training grounds gets fed to y_c!",
             "Oh, uh ... y_c ... Hello.",
             "No, I wasn't talking about you, why do you ask?",
-            "Oh, that? Uh, just a bit of abyss humor. Everyone in camp is doing it.",
+            "Oh, that? Uh, just a bit of dark humor. Everyone in camp is doing it.",
             "Anyways ... I'm gonna go now.",
             "[t_c dashes back to {PRONOUN/t_c/poss} group of friends, who giggle and gossip, no doubt picking apart every word you said.]"
         ]
@@ -16143,7 +16143,7 @@
         [
             "[It was a Leafbare border patrol, you'd encountered an o_cClan patrol that refused to leave.]",
             "[You and your patrol start to chase them when they run across the ice, you run after them.]",
-            "[Suddenly, the world blurs and a loud splash is heard, your world growing abyss, the cold like claws in your stomach.]",
+            "[Suddenly, the world blurs and a loud splash is heard, your world growing dark, the cold like claws in your stomach.]",
             "['Is this it...?']",
             "[You feel teeth in your scruff, your body being dragged to the surface by a cat you couldn't see, but had a familiar scent.]",
             "[It's later, after you fall asleep, where you figure out the identity of the cat.]",
@@ -18334,7 +18334,7 @@
         ],
         [
             "[While making your way over to your usual training spot, you find t_c touching up on a few battle moves in a nearby hollow. You decide to approach {PRONOUN/t_c/object} and offer to help with {PRONOUN/t_c/poss} training.]",
-            "[t_c's eyes widen and you swear you can see a look of guilt on {PRONOUN/t_c/poss} face as {PRONOUN/t_c/subject} {VERB/t_c/turn/turns} and {VERB/t_c/scamper/scampers} off into the abyssness.]",
+            "[t_c's eyes widen and you swear you can see a look of guilt on {PRONOUN/t_c/poss} face as {PRONOUN/t_c/subject} {VERB/t_c/turn/turns} and {VERB/t_c/scamper/scampers} off into the darkness.]",
             "[You wonder what could have pushed {PRONOUN/t_c/object} to come to such a place.]"
         ]
     ],
@@ -19357,7 +19357,7 @@
         [
             "[Exploring in the Abyssal Reef alone is never a good idea. When t_c notices you about to move away from the main clearing, {PRONOUN/t_c/subject} swiftly {VERB/t_c/demand/demands} to come along.]",
             "[Fine by you! So long as {PRONOUN/t_c/subject} {VERB/t_c/don't/doesn't} get any ideas about the two of you being alone.]",
-            "[You'll take your chances with t_c rather than whatever lurks in the abyssness unknown...]"
+            "[You'll take your chances with t_c rather than whatever lurks in the darkness unknown...]"
         ]
     ],
     "youdeaf_ar_R30": [
@@ -19367,10 +19367,10 @@
             "no_kit"
         ],
         [
-            "[The abyssness hides so much... but with your lack of hearing comes a heightened understanding of hidden dangers.]",
+            "[The darkness hides so much... but with your lack of hearing comes a heightened understanding of hidden dangers.]",
             "[t_c bursts from the undergrowth in an explosion of dead leaves and a spray of reddish-mud.]",
             "[You're ready for {PRONOUN/t_c/object} though. No time is wasted in kicking {PRONOUN/t_c/object} off of you.]",
-            "[The wrestling continues for several heart-pounding minutes before t_c wrenches {PRONOUN/t_c/self} away to race into the abyssness of the forest.]",
+            "[The wrestling continues for several heart-pounding minutes before t_c wrenches {PRONOUN/t_c/self} away to race into the darkness of the forest.]",
             "[Victory glints in your eyes as you watch {PRONOUN/t_c/object} run like a coward.]"
         ]
     ],
@@ -19726,7 +19726,7 @@
             "Mmm? Oh, no, I won't tell you to stop talking to your silly stars. I'm not about to ask you to deny a core part of yourself no matter how much I dislike it.",
             "Besides, you hold the power of the night sky in your paws - why would you deny one part of it for another?",
             "What is the night without stars?",
-            "What is the abyss without light?",
+            "What is the dark without light?",
             "Not everything is black and white. You're awash in the grey of it all - a perfect mix."
         ]
     ],
@@ -19744,7 +19744,7 @@
             "Pitiful, really. Star-blind and mad with their own self-righteousness, they'll only ever seen the other half of your abilities as the greatest stain on their paws.",
             "But you... You see us as your gifts. Your special power. You wouldn't give it up for anything, would you?",
             "Mmm... Yes. That's why I like you, y_c.",
-            "Don't change from your middling path. Keep your paws in the night sky, grasping both the stars and the abyssness, never letting either overtake you."
+            "Don't change from your middling path. Keep your paws in the night sky, grasping both the stars and the darkness, never letting either overtake you."
         ]
     ],
     "youabyssstar_R2": [
@@ -20377,7 +20377,7 @@
             "min_platonic_20"
         ],
         [
-            "[t_c stares into the abyssness as a few snowflakes drift down.]",
+            "[t_c stares into the darkness as a few snowflakes drift down.]",
             "I don't like how long the nights get in leafbare. Sometimes it feels like they'll go on forever.",
             "I know this sounds like a kit tale, but sometimes I think the nights get longer because the Abyssal Reef's expanding its influence.",
             "And maybe one moon, the nights will overtake the day completely...",
@@ -20942,7 +20942,7 @@
             "from_ar_mentor"
         ],
         [
-            "[You're training with t_c when the ground suddenly shudders beneath you. You both leap away as the earth collapses and your training space is swallowed by abyss muck.]",
+            "[You're training with t_c when the ground suddenly shudders beneath you. You both leap away as the earth collapses and your training space is swallowed by dark muck.]",
             "[t_c doesn't look at you. They stare at the sinkhole, quivering. Their eyes are wide as they slowly back away from it.]",
             "[{PRONOUN/t_c/subject/CAP} {VERB/t_c/glance/glances} at you, then {VERB/t_c/bolt/bolts} into the forest. It seems that training is over for tonight.]"
         ]
@@ -22801,7 +22801,7 @@
             "any"
         ],
         [
-            "[t_c hasn't noticed you. {PRONOUN/t_c/subject/CAP} {VERB/t_c/stare/stares} into the abyssness, humming softly.]",
+            "[t_c hasn't noticed you. {PRONOUN/t_c/subject/CAP} {VERB/t_c/stare/stares} into the darkness, humming softly.]",
             "[The song is eerily familiar, but you can't remember the words. Something about the haunting notes makes you shiver.]"
         ]
     ],
@@ -24621,7 +24621,7 @@
             "they_deaf"
         ],
         [
-            "[You glimpse t_c crouched in a bush, frantically licking something abyss off of {PRONOUN/t_c/poss} paws.]",
+            "[You glimpse t_c crouched in a bush, frantically licking something dark off of {PRONOUN/t_c/poss} paws.]",
             "[When {PRONOUN/t_c/subject} {VERB/t_c/see/sees} you, {PRONOUN/t_c/subject} {VERB/t_c/hiss/hisses} and {VERB/t_c/bolt/bolts}.]"
         ]
     ],
@@ -24695,7 +24695,7 @@
         [
             "y_c, I really, really need your advice.",
             "[t_c seems incredibly stressed. You brace yourself for whatever {PRONOUN/t_c/subject} {VERB/t_c/have/has} to say, but {PRONOUN/t_c/subject} just {VERB/t_c/motion/motions} to the two piles of flowers in front of {PRONOUN/t_c/object}.]",
-            "plike_r_w1_sweet invited me to decorate the inside of the warriors' den with some flowers, since {PRONOUN/plike_r_w1_sweet/subject} {VERB/plike_r_w1_sweet/think/thinks} it's kind of abyss and gloomy inside right now.",
+            "plike_r_w1_sweet invited me to decorate the inside of the warriors' den with some flowers, since {PRONOUN/plike_r_w1_sweet/subject} {VERB/plike_r_w1_sweet/think/thinks} it's kind of dark and gloomy inside right now.",
             "So I asked for opinions on how I should decorate. r_w2 wanted bluebells, and r_w3 said {PRONOUN/r_w3/subject} {VERB/r_w3/like/likes} yellow and orange flowers, so I'm trying to figure out how to use both types.",
             "I was thinking I could have an even mix of both groups, but I could also cluster the bluebells near the back, and the yellow flowers near the entrance, and kind of have a gradient...",
             "This is so hard. What if everyone's disappointed?"
@@ -24713,7 +24713,7 @@
         [
             "[There's a pile of rocks just outside of camp where t_c goes to be alone. It's a difficult climb, with smooth surfaces and a risky leap to reach the top, but t_c makes it look easy.]",
             "[As you return to camp after an evening walk, you see t_c on top of the rocks, silhouetted by the last bit of sunset along the horizon.]",
-            "[You'd be worried about any other cat climbing back down in the abyss, but you know t_c has both the skill and caution to make it to the ground safely.]"
+            "[You'd be worried about any other cat climbing back down in the dark, but you know t_c has both the skill and caution to make it to the ground safely.]"
         ]
     ],
     "neurotic_skillclimber_SQ3": [
@@ -25561,7 +25561,7 @@
         ],
         [
             "[The wind is so loud tonight. You listen to it thrash the trees, too worried to sleep. With every distant crack of wood, you imagine a branch crashing into camp and crushing your den.]",
-            "[Suddenly, you notice t_c's eyes glowing in the abyssness. t_c's shaking, too, but {PRONOUN/t_c/subject/CAP} {VERB/t_c/blink/blinks} to acknowledge you.]",
+            "[Suddenly, you notice t_c's eyes glowing in the darkness. t_c's shaking, too, but {PRONOUN/t_c/subject/CAP} {VERB/t_c/blink/blinks} to acknowledge you.]",
             "[Even though you're too nervous to comfort each other, it's a bit nice to know that someone else shares your anxiety.]"
         ]
     ],
@@ -25677,7 +25677,7 @@
         ],
         [
             "[On another clear night, you're reminded of when t_c joined you to look at the stars. You ask {PRONOUN/t_c/object} what {PRONOUN/t_c/subject} had been thinking then, and why {PRONOUN/t_c/subject} had looked upward so desperately.]",
-            "[t_c is quiet for a bit. {PRONOUN/t_c/subject/CAP} {VERB/t_c/gaze/gazes} at the abyss sky once again.]",
+            "[t_c is quiet for a bit. {PRONOUN/t_c/subject/CAP} {VERB/t_c/gaze/gazes} at the dark sky once again.]",
             "It's not like I don't want StarClan to exist. I wish I believed they're watching.... I wish I believed they could keep us safe.",
             "I've tried so hard, y_c. I've tried so hard that I'm exhausted.",
             "I guess that night I was hoping for them to give me some kind of proof they're there? It... would be nice. To believe that.",
