@@ -1049,7 +1049,7 @@
             "[t_c points {PRONOUN/t_c/poss} nose downward to the earth below where the living can be seen bustling about.]",
             "Those are my loved ones down there. I know I can't be there with them, but I know they're aware I'm watching.",
             "Haha, you look confused, y_c.",
-            "They think I'm a star, looking over them and lighting their path in the abyssness. And in a way, they're correct. I will always protect them, even from up here. Even when I can't make any more memories with them.",
+            "They think I'm a star, looking over them and lighting their path in the darkness. And in a way, they're correct. I will always protect them, even from up here. Even when I can't make any more memories with them.",
             "And I'm okay with that, really. It takes some time to get used to, yeah, but... They're happy. That's all I can ask for, waiting for them to join me among the stars."
         ]
     ],
@@ -1255,7 +1255,7 @@
             "I've never in my life been more terrified, StarClan. What if I mess something up? What if I'm too jaded to be a good {PRONOUN/t_c/parent}? What if something happens to {PRONOUN/t_kk/object}, and I can't keep {PRONOUN/t_kk/object} safe?",
             "Could I get a little guidance? Advice from the other side? Hello? Is anyone listening? Is anyone even there ...?",
             "Ah, forget it. This is stupid.",
-            "[t_c spits and returns to {PRONOUN/t_c/poss} nest, curling up into a tiny, abyss shape; receding back into the abyss.]"
+            "[t_c spits and returns to {PRONOUN/t_c/poss} nest, curling up into a tiny, dark shape; receding back into the dark.]"
         ]
     ],
     "cool_vulnerable_mate": [
@@ -1276,7 +1276,7 @@
             "And ... I don't know. I guess I'm just scared. I don't know what to do. I haven't felt this way in years. What if I do something wrong?",
             "Could I get a little guidance? Advice from the other side? Hello? Is anyone listening? Is anyone even there ...?",
             "Ah, forget it. This is stupid.",
-            "[t_c spits and returns to {PRONOUN/t_c/poss} nest, curling up into a tiny, abyss shape; receding back into the abyss.]"
+            "[t_c spits and returns to {PRONOUN/t_c/poss} nest, curling up into a tiny, dark shape; receding back into the dark.]"
         ]
     ],
     "cool_vulnerable_crush": [
@@ -1297,7 +1297,7 @@
             "And ... I don't know. I guess I'm just scared. I don't know what to do. I haven't felt this way in years. What if I do something wrong?",
             "Could I get a little guidance? Advice from the other side? Hello? Is anyone listening? Is anyone even there ...?",
             "Ah, forget it. This is stupid.",
-            "[t_c spits and returns to {PRONOUN/t_c/poss} nest, curling up into a tiny, abyss shape; receding back into the abyss.]"
+            "[t_c spits and returns to {PRONOUN/t_c/poss} nest, curling up into a tiny, dark shape; receding back into the dark.]"
         ]
     ],
     "cool_grief": [
@@ -2937,7 +2937,7 @@
         ],
         [
             "Little kit, many a challenge awaits you. Do you feel ready to walk the night sky?",
-            "No? Well, that's alright. I didn't expect you to be ready. StarClan may not see how wonderful you are for your gifts but we do, here in the abyssness.",
+            "No? Well, that's alright. I didn't expect you to be ready. StarClan may not see how wonderful you are for your gifts but we do, here in the darkness.",
             "Through it all, you'll prosper. Don't ever let anyone stop you."
         ]
     ],
@@ -2950,7 +2950,7 @@
             "you_not_artrainee"
         ],
         [
-            "Turn your back on the abyssness, y_c. Please. For your sake.",
+            "Turn your back on the darkness, y_c. Please. For your sake.",
             "However you gained these gifts... It was cruel to allow you to cross the borders. Stay in our starshine, and never return to their night.",
             "We don't want to see you hurt."
         ]
@@ -2994,7 +2994,7 @@
         [
             "Hello little star! How are you today? Are you enjoying your dreams?",
             "Oh, you didn't dream of StarClan last night...? What did you dream of?",
-            "... A murky forest full of abyssness... Oh dear.",
+            "... A murky forest full of darkness... Oh dear.",
             "Little star, I think you may have dreamed of the Abyssal Reef. You must avoid that place, it's dangerous. The cats there are not nice.",
             "If you ever find yourself there again, follow any light you see. Come back to the stars, little y_c, and be safe amongst our glow.",
             "StarClan will do our best to keep you protected."
@@ -3570,9 +3570,9 @@
             "[You frolic around camp with glee, but halt when you see a shadow near the nursery.]",
             "[t_c again? They seemed nice enough before... but they still seem sad now. You decide to listen to their ballad.]",
             "I loved you, I loved you, my kittens long gone. I loved you, I loved you, even when wrong.",
-            "So I joined that guild of shadow, the forest abyss, not shallow",
+            "So I joined that guild of shadow, the abyssal reef, not shallow",
             "For I knew our Clan could not win, I could not see you taken.",
-            "But in the end that abyssness had come, and my the cost a greater one.",
+            "But in the end that darkness had come, and my the cost a greater one.",
             "I loved you, I loved you, my kittens long gone. I loved you, I loved you, even when wrong."
         ]
     ],
