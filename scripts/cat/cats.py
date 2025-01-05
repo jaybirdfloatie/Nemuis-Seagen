@@ -198,7 +198,7 @@ class Cat:
         self.history = None
 
                 # seagen extra attributes :)
-        self.scent = choice(["milk", "saltwater", "sunscreen", "seaweed", "roses", "dandelions", "the night sky", "damp sand", "fish", "driftwood", "crabs", "lobster", "crawfish", "oysters", "coconut", "bananas", "seagulls", "the sea breeze", "shells", "clams", "algae", "herbs", "kelp", "barbecue", "charcoal", "tanning lotion", "stagnant water", "pool toys", "chlorine", "canines", "lime", "lemon"])
+        self.scent = choice(["milk", "saltwater", "sunscreen", "seaweed", "roses", "dandelions", "the night sky", "damp sand", "fish", "driftwood", "crabs", "lobster", "crawfish", "oysters", "coconut", "bananas", "seagulls", "the sea breeze", "shells", "clams", "algae", "herbs", "kelp", "barbecue", "charcoal", "tanning lotion", "stagnant water", "pool toys", "chlorine", "canines", "lime", "lemon", "mangroves", "perfume", "squid", "octopus", "worms", "duck", "moss", "spirulina", "plankton", "anenome venom", "eel"])
         self.quirk = choice(["flat muzzle", "taller than average", "shorter than average", "large ears", "long tail", "big paws", "little paws", "long whiskers", "stubby whiskers", "long muzzle", "curled ears", "skinny", "chubby", "rounded face", "crooked tail", "Long hind legs", "muscular", "polydactyl paws", "protruding vampy fangs", "fangless", "curly whiskers", "patchy fur", "sleek fur", "long claws", "mane", "fluffy", "big nose", "little nose", "squishy paws", "crooked teeth", "cross-eyed", "syndactyly", "tiny fella", "unusually large", "stocky"])
         if (
             faded
